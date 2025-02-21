@@ -1,0 +1,22 @@
+.resume-builder-container {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.sidebar {
+    width: 20%;
+    min-width: 200px;
+    border-right: 2px solid #ccc;
+}
+
+.main-content {
+    overflow-y: auto;
+}
+
+.preview {
+    overflow-y: auto;
+}
+
+.preview-content {
+    background-color: #f8f9fa;
+}

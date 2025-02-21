@@ -1,0 +1,41 @@
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+input.form-control {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+button.btn {
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+button.btn-outline-danger {
+    color: #dc3545;
+    border-color: #dc3545;
+}
+
+button.btn-outline-danger:hover {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+button.btn-outline-primary {
+    color: #0a66c2;
+    border-color: #0a66c2;
+}
+
+button.btn-outline-primary:hover {
+    background-color: #0a66c2;
+    color: #fff;
+}
